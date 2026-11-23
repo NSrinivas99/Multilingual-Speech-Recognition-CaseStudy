@@ -232,7 +232,7 @@ def build_pdf_report(filename):
     story.append(Paragraph("Department of CSE - AIML", sub_body_style))
     story.append(Spacer(1, 14))
 
-    story.append(Paragraph("<b>Date of Submission:</b> 24 November 2026", sub_title_style))
+    story.append(Paragraph("<b>Date of Submission:</b> 23 November 2026", sub_title_style))
     story.append(Spacer(1, 5))
     story.append(Paragraph("<b>Code Repository Link:</b> <font color='#0D47A1'><u>https://github.com/NSrinivas99/Multilingual-Speech-Recognition-CaseStudy</u></font>", ParagraphStyle('RepoLink', fontName='Helvetica', fontSize=9, leading=12.5, textColor=colors.HexColor('#263238'))))
 

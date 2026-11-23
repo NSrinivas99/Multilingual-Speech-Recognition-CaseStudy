@@ -7,7 +7,7 @@
 **Department:** Computer Science and Engineering (CSE - AIML)  
 **Course:** Speech Recognition and Conversational Systems (`22AIMLDE24`) — Semester VII (Section C)  
 **Instructor:** Prof. Shobha H R, Assistant Professor  
-**Date of Submission:** 24 November 2026  
+**Date of Submission:** 23 November 2026  
 **Compiled Submission Document:** [`23BTRCL221_NADAKUDURU_SRINIVAS_CaseStudy.pdf`](23BTRCL221_NADAKUDURU_SRINIVAS_CaseStudy.pdf) (15 Pages)  
 **GitHub Repository:** [https://github.com/NSrinivas99/Multilingual-Speech-Recognition-CaseStudy](https://github.com/NSrinivas99/Multilingual-Speech-Recognition-CaseStudy)
 
